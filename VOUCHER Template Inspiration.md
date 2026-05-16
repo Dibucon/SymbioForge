@@ -128,4 +128,4 @@ This keeps vouchers reusable and simple.
 
 Do not overcomplicate. Start with a shared notebook. After one month, you will know if you need serial numbers or fancier tools.
 
-*OM MANI PADME HUM*
+May all beings be happy.
