@@ -27,8 +27,105 @@ Feel free to:
 
 **Printing tip:** Print on slightly thicker paper (80–100 gsm), cut, and laminate if used often.
 
+## Ledger & Serial Numbers – How They Work with Demurrage
 
+A clear, practical explanation for your `Deep-Dive` wiki page or a separate FAQ entry.
 
+---
 
+### What is a ledger?
+
+A **ledger** is simply a record of who has how many units in the circle. It can be:
+
+- A **notebook** (paper, one page per member)
+- A **spreadsheet** (Excel, Google Sheets)
+- A **shared whiteboard** (for very small circles)
+
+The ledger has columns like:
+
+| Member name | Current balance | Last demurrage date |
+|-------------|----------------|---------------------|
+| Alice       | 1250 units      | Feb 1, 2026         |
+| Bob         | 800 units       | Feb 1, 2026         |
+| Carla       | 2200 units      | Feb 1, 2026         |
+
+**The ledger is the source of truth.** Paper vouchers are just physical tokens that represent the balance – they make it easy to pay someone without updating the ledger immediately.
+
+---
+
+### How demurrage is applied using the ledger
+
+Demurrage (1% per month on balances **above 1000 units**) is calculated **per member**, not per voucher.
+
+**At each monthly meeting:**
+
+1. Treasurer checks every member’s balance in the ledger.
+2. For any member with balance > 1000, subtract 1% of the **entire balance** (or 1% of the amount above 1000 – your circle decides).
+3. Record the new balance and update the “last demurrage date”.
+
+**Example:**
+
+- Alice has **1250 units** on Feb 1.
+- 1% of 1250 = 12.5 units deducted.
+- New balance = **1237.5 units**.
+- Treasurer writes this in the ledger.
+
+No need to touch the paper vouchers – the ledger does all the work.
+
+---
+
+### What are serial numbers for?
+
+**Serial numbers** uniquely identify each paper voucher. They help in two ways:
+
+**1. Preventing counterfeiting**  
+If every voucher has a unique number, the circle can keep a list of issued numbers. When someone tries to spend a voucher, the treasurer can check if that number exists and hasn’t been spent before.
+
+**2. Replacing lost or damaged vouchers**  
+If a member loses a voucher, the circle can cancel that serial number (mark it as void) and issue a replacement, keeping the ledger correct.
+
+**Serial numbers do NOT directly affect demurrage.** Demurrage works on the ledger balance, not on individual vouchers.
+
+---
+
+### Do you need both a ledger and serial numbers?
+
+| Approach | Complexity | Suitable for |
+|----------|------------|---------------|
+| **Ledger only** (no vouchers) | Very low | 2–10 members meeting weekly |
+| **Ledger + simple vouchers (no serials)** | Low | 5–30 members, high trust |
+| **Ledger + serial‑numbered vouchers** | Medium | >30 members, lower trust |
+
+Start with the simplest. Add serial numbers only if you see problems with fake vouchers or disputes.
+
+---
+
+### Summary table
+
+| Concept | Purpose | How it helps demurrage |
+|---------|---------|------------------------|
+| **Ledger** | Tracks each member’s total balance and demurrage history | Directly calculates and records demurrage deductions each month |
+| **Serial numbers** | Prevents counterfeiting; identifies individual vouchers | Not directly – they support the ledger by ensuring vouchers are genuine |
+
+---
+
+### What to write on a voucher (minimal version)
+
+If you use a ledger, your vouchers only need:
+
+- Circle name (or stamp)
+- Denomination (e.g., “10 units”)
+- Serial number (optional)
+- No date, no demurrage text (the ledger handles that)
+
+This keeps vouchers reusable and simple.
+
+---
+
+### Final advice
+
+> “The ledger is the brain. Vouchers are just the hands.”
+
+Do not overcomplicate. Start with a shared notebook. After one month, you will know if you need serial numbers or fancier tools.
 
 *OM MANI PADME HUM*
